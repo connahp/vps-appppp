@@ -8,7 +8,7 @@ curl -o "C:\Users\Public\Desktop\EVKey64.exe" https://raw.githubusercontent.com/
 curl -o "C:\Users\Public\Desktop\winrar-x64-600.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/winrar-x64-600.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\idman638build18.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/idman638build18.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\FshareSetup_5.3.0.174.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/FshareSetup_5.3.0.174.exe > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\Motdulieu_AirExplorer2.8.1.zip" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/Motdulieu_AirExplorer2.8.1.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\AirExplorer2.8.1.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/AirExplorer%202.8.1.exe > out.txt 2>&1
 net user administrator Motdulieu2021 /add >nul
 net localgroup administrators administrator /add >nul
 net user administrator /active:yes >nul
